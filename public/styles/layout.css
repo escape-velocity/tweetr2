@@ -15,9 +15,10 @@ html {
  */
 
 body {
-  margin: 0;
+  margin:
   color: #244751;
-  background-color: #eee;
+  background-color: #dcd8d8;
+  font-family: "roboto condensed", "san Serif";
 }
 
 /*
