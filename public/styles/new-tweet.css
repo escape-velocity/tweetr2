@@ -1,0 +1,30 @@
+
+main {
+  width: 450px;
+   background-color: white;
+  margin: 140px auto 0 auto;
+  padding: 20px 20px;
+  }
+
+main section.new-tweet {
+  margin-bottom: 10px;
+  border-radius: 10px;
+  border: 1px solid black;
+  padding: 25px 20px;
+  background: #dcd8d8;
+  }
+main h2 {
+    border-bottom: 1px solid black;
+    margin-top: 3px;
+  }
+main section textarea {
+  width: 100%;
+  padding: 2px 0 0 2px;
+  }
+
+  main span.counter {
+  float: right;
+ }
+ input {
+  float: left;
+ }
