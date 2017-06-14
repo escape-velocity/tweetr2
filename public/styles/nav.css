@@ -23,3 +23,21 @@
   padding: 10px;
   float: left;
 }
+#nav-bar button {
+  height: 55px;
+  width: 100px;
+  float: right;
+  background-color: #9cda34;
+  border-color: #73e8c6;
+  border-radius: 9px;
+  border-width: 2px;
+  color: #0ca580;
+  font-size: 102%;
+  margin-right: 1.5em;
+  margin-top: 1em;
+}
+
+#nav-bar:hover button {
+  background-color: #70ca4b;
+  color: black;
+}

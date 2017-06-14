@@ -14,14 +14,14 @@
 }
 
 .tweet header {
-  justify-content: space-between;
-  display: flex;
+  /*justify-content: space-between;
+  display: flex;*/
   background-color: #eee;
   height: 80px;
   padding-top: 5px;
 }
 
-.tweet header img.avatar {
+.tweet header img {
   padding-top: 15px;
   float: left;
   width: 50px;
@@ -62,8 +62,4 @@
 .tweet footer .icons {
   float: right;
   display: none;
-}
-.tweet:hover footer .icons {
-  display: block;
-
 }
