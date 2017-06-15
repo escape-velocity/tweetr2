@@ -31,7 +31,7 @@ $(function() {
     tweets.forEach(function(tweet) {
       $tweetContainer.prepend(createTweetElement(tweet));
     });
-    // This one calls createTweetElement for each tweet
+    // This calls createTweetElement for each tweet
     // takes return value and appends it to the tweets container
   }
 
@@ -61,7 +61,7 @@ $(function() {
     evt.preventDefault();
     var text = $('textarea').val();
     if (text.length === 0) {
-      alert('You forgot to put something in the form field');
+      alert("Hey that's not a tweet, it's empty");
     } else if (text.length > 140) {
       alert('Max Character limit exceeded');
     } else {
