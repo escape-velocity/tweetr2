@@ -15,3 +15,17 @@ This repository is the starter code for the project: Students will fork and clon
 
 - Express
 - Node 5.10.x or above
+- body-parser
+- chance
+- md5
+- moment
+- mongodb
+
+## ScreenShots
+!["This is the overall landing page..tweetbox closed"](https://github.com/escape-velocity/tweetr/blob/master/docs/Tweetbox%20closed.png)
+
+!["This is the overall landing page..tweetbox open"](https://github.com/escape-velocity/tweetr/blob/master/docs/Tweetbox%20opened.png)
+
+!["Closeup of the tweetbox and some tweets in the db"](https://github.com/escape-velocity/tweetr/blob/master/docs/Tweetbox%20and%20tweets%20in%20the%20database%20displayed.png)
+
+!["This is he compose button..located upper right"](https://github.com/escape-velocity/tweetr/blob/master/docs/Compose%20button%20to%20open%20up%20tweetbox.png)
