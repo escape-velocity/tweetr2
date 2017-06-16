@@ -68,6 +68,7 @@ $(function() {
       var formStuff = $( this ).serialize();
       createNewTweet(formStuff);
       $('textarea').val('');
+      $('.counter').text('140');
     }
   });
 
