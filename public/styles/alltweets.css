@@ -58,6 +58,8 @@
   }
 .fa {
   padding: 0 .75em;
+  color: #9cda34;
+
 }
 .tweet footer .icons {
   float: right;
@@ -65,5 +67,6 @@
 }
 .tweet:hover footer .icons {
   display: block;
+  cursor: pointer;
 
 }
